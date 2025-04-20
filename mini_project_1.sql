@@ -1,13 +1,12 @@
--- use MX_practices 
 
 -- select * 
 -- from [dbo].[SaleOrders]
 
 -- select * from [dbo].[RankRFM]
 
--- Tính RFM_Score nhưng không chia từ 1 đến 5 mà chỉ từ 1 đến 4. 
+-- Tính RFM_Score từ 1 đến 4. 
 -- R là bao lâu rồi chưa mua hàng
--- F là (số đơn/ số ngày mua hàng). Với số ngày mua hàng là từ min(orderdate) đến max(orderdate)
+-- F là (số đơn/ số ngày mua hàng)
 -- M là doanh thu từ khách hàng đấy
 
 -- Gia dinh ngay tinh toan la 2017-07-01
