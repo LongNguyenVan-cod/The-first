@@ -2,8 +2,8 @@
 Sử dụng cách random ID thí sinh để thu thập tên và điểm thi từng môn thi của các thí sinh <br/>
 
 # Lam sach va chuan hoa du lieu
-File raw thu được dưới dạng file 'HTML' <br/>
-Sử dụng python xóa các tag, khoảng trống, chuẩn hóa Tiếng Việt theo chuẩn `UTF-8 `, tách điểm từng môn, 'đánh nhãn' những môn thi thiếu điểm <br/> 
+File raw thu được dưới dạng file `HTML` <br/>
+Sử dụng python xóa các tag, khoảng trống, chuẩn hóa Tiếng Việt theo chuẩn `UTF-8`, tách điểm từng môn, `đánh nhãn` những môn thi thiếu điểm <br/> 
 Đưa về định dạng CSV với các cột sbd, họ và tên, ngày tháng năm sinh, các điểm môn thi <br/>
 
 # Ve nhanh mot so dac diem noi bat cua ky thi
