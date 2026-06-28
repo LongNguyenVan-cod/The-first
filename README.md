@@ -10,6 +10,7 @@ Sử dụng python xóa các tag, khoảng trống, chuẩn hóa Tiếng Việt 
 Với file CSV đã làm sạch vẽ các biểu đồ thể hiện đắc điểm quan trọng của kỳ thi như <br/>
 <p>
   số lượng thí sinh bỏ thi, <br/>
+</p>
   điểm trung bình theo từng môn, <br/>
   điển trung bình theo độ tuổi, ... <br/>
 </p>
